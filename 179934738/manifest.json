@@ -1,0 +1,241 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://kyaskowich.github.io/booktok-collection-example/179934738/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Icebound (Boundless Players #1)"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Original Date of Publication"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2024"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Spice Level"
+                ]
+            },
+            "value": {
+                "none": [
+                    "4/5"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Rating Explanation"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Based on ratings adapted from Romance.io. Non-romance titles or titles with unknown ratings default to 0/5."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Description"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Rhode Tremblay is Nashville�s Naughtiest Hockey Player�at least, that�s what everyone believes after the Tenerife Debacle.\n\nWith a thigh tattoo that�s catnip for women and a wicked smirk that needs a warning label, everyone flocks to the NHL�s resident bad boy. Sure, Rhode accidentally set a yacht on fire while bringing a woman to the brink of ecstasy, but that happened over a decade ago. Now, at thirty-three, Rhode�s searching for something real. He�s ready to get down on one knee for the right person, but he has one rule�no dating anyone under thirty.\n\nPhilomena �Nina� Alstyne has sworn off men who look like fallen angels on skates.\n\nThe feisty art student is done molding herself to fit someone else�s life after her relationship fiasco. At twenty-two, Nina�s last semester of college is about her pottery dreams. Except, when one fateful accident forces Nina into a faux situationship with Nashville�s (Supposed) Naughtiest, all her curated plans crumble like a fragile sculpture. \n\nRhode falls first, and he falls hard.\n\nThere�s only one problem� Rhode thinks he�s fake dating a thirty-year-old doctor. As secrets get revealed, his biggest temptation quickly becomes off-limits, but Nina soon realizes the cross-stitching cat daddy is what the chaos in her soul craves�and Nina�s fiery passion might burn hot enough to melt Rhode�s icy boundaries."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Author"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Meredith Trapp"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Demographic"
+                ]
+            },
+            "value": {
+                "none": [
+                    "New Adult"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Genre Category"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fiction"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Primary Genre"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Contemporary Romance"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Secondary Genre"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Sports Romance"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Publisher/Imprint"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Independently Published"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "ISBN"
+                ]
+            },
+            "value": {
+                "none": [
+                    "9798989848102"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Image URL"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1690792310i/179934738.jpg"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Goodreads Link"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://www.goodreads.com/book/show/179934738-icebound"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Tag"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Forced Proximity",
+                    "Fake Dating",
+                    "#SpicyTok"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-example/179934738/b6d767ebce3b878f17c5320b7402bdbf/full/187,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 187
+        }
+    ],
+    "items": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-example/179934738/canvas/1",
+            "type": "Canvas",
+            "height": 529,
+            "width": 330,
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-example/179934738/b6d767ebce3b878f17c5320b7402bdbf/full/187,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 187
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-example/179934738/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://kyaskowich.github.io/booktok-collection-example/179934738/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://kyaskowich.github.io/booktok-collection-example/179934738/canvas/1",
+                            "body": {
+                                "id": "https://kyaskowich.github.io/booktok-collection-example/179934738/b6d767ebce3b878f17c5320b7402bdbf/full/330,529/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 529,
+                                "width": 330,
+                                "service": [
+                                    {
+                                        "id": "https://kyaskowich.github.io/booktok-collection-example/179934738/b6d767ebce3b878f17c5320b7402bdbf",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
