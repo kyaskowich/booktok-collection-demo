@@ -1,0 +1,215 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://kyaskowich.github.io/booktok-collection-example/62874245/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "The Drowning Woman"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Original Date of Publication"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2023"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Description"
+                ]
+            },
+            "value": {
+                "none": [
+                    "A deliciously twisted story of friendship, retribution, and betrayal�about a homeless woman fleeing a dangerous past�and the wealthy society wife she saves from drowning, who pulls her into a dark web of secrets and lies.\n �\n Lee Gulliver never thought she�d find herself living on the streets�no one ever does�but when her restaurant fails, and she falls deeper into debt, she leaves her old life behind with nothing but her clothes and her Toyota Corolla. In Seattle, she parks in a secluded spot by the beach to lay low and plan her next move�until early one morning, she sees a�sobbing woman throw herself into the ocean. Lee hauls the woman back to the surface, but instead of appreciation, she is met with fury. The drowning woman, Hazel, tells her that she wanted to die, that she�s trapped in a toxic, abusive marriage, that she�s a prisoner in her own home. Lee has thwarted her one chance to escape her life.\n\n Out of options, Hazel retreats to her gilded cage, and Lee thinks she�s seen the last of her, until her unexpected return the next morning. Bonded by disparate but difficult circumstances, the women soon strike up a close and unlikely friendship. And then�one day, Hazel makes a shocking request: she wants Lee to help her disappear. It�ll be easy, Hazel assures her, but Lee soon learns that nothing is as it seems, and that Hazel may not be the friend Lee thought she was."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Author"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Robyn Harding"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Demographic"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Adult"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Genre Category"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fiction"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Primary Genre"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Mystery Thriller"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Secondary Genre"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Contemporary Fiction"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Publisher/Imprint"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Hachette; Grand Central Publishing"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "ISBN"
+                ]
+            },
+            "value": {
+                "none": [
+                    "9781538726761"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Image URL"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1681110477i/62874245.jpg"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Goodreads Link"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://www.goodreads.com/book/show/62874245-the-drowning-woman"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Tag"
+                ]
+            },
+            "value": {
+                "none": [
+                    "#ThrillerTok"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-example/62874245/321ce4b4fa2aaee0cf983f6bf53454a4/full/199,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 199
+        }
+    ],
+    "items": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-example/62874245/canvas/1",
+            "type": "Canvas",
+            "height": 400,
+            "width": 265,
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-example/62874245/321ce4b4fa2aaee0cf983f6bf53454a4/full/199,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 199
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-example/62874245/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://kyaskowich.github.io/booktok-collection-example/62874245/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://kyaskowich.github.io/booktok-collection-example/62874245/canvas/1",
+                            "body": {
+                                "id": "https://kyaskowich.github.io/booktok-collection-example/62874245/321ce4b4fa2aaee0cf983f6bf53454a4/full/265,400/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 400,
+                                "width": 265,
+                                "service": [
+                                    {
+                                        "id": "https://kyaskowich.github.io/booktok-collection-example/62874245/321ce4b4fa2aaee0cf983f6bf53454a4",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

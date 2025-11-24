@@ -1,0 +1,242 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://kyaskowich.github.io/booktok-collection-example/62926938/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "The Seven Year Slip"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Original Date of Publication"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2023"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Spice Level"
+                ]
+            },
+            "value": {
+                "none": [
+                    "3/5"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Rating Explanation"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Based on ratings adapted from Romance.io. Non-romance titles or titles with unknown ratings default to 0/5."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Description"
+                ]
+            },
+            "value": {
+                "none": [
+                    "An overworked book publicist with a perfectly planned future hits a snag when she falls in love with her temporary roommate�only to discover he lives seven years in the past, in this witty and wise new novel from the New York Times bestselling author of The Dead Romantics.\n\nSometimes, the worst day of your life happens, and you have to figure out how to live after it.\n\nSo Clementine forms a plan to keep her heart safe: work hard, find someone decent to love, and try to remember to chase the moon. The last one is silly and obviously metaphorical, but her aunt always told her that you needed at least one big dream to keep going. And for the last year, that plan has gone off without a hitch. Mostly. The love part is hard because she doesn�t want to get too close to anyone�she isn�t sure her heart can take it.\n\nAnd then she finds a strange man standing in the kitchen of her late aunt�s apartment. A man with kind eyes and a Southern drawl and a taste for lemon pies. The kind of man that, before it all, she would�ve fallen head-over-heels for. And she might again.\n\nExcept, he exists in the past. Seven years ago, to be exact. And she, quite literally, lives seven years in his future.\n\nHer aunt always said the apartment was a pinch in time, a place where moments blended together like watercolors. And Clementine knows that if she lets her heart fall, she�ll be doomed.\n\nAfter all, love is never a matter of time�but a matter of timing."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Author"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Ashley Poston"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Demographic"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Adult"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Genre Category"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fiction"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Primary Genre"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Contemporary Romance"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Secondary Genre"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Magical Realism"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Publisher/Imprint"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Berkley"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "ISBN"
+                ]
+            },
+            "value": {
+                "none": [
+                    "9780593336526"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Image URL"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1685350807i/62926938.jpg"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Goodreads Link"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://www.goodreads.com/book/show/62926938-the-seven-year-slip"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Tag"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Forced Proximity",
+                    "Friends-to-Lovers",
+                    "Second Chance",
+                    "Yearning"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-example/62926938/89362651c76edb5cf0ace80ecf57a990/full/200,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 200
+        }
+    ],
+    "items": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-example/62926938/canvas/1",
+            "type": "Canvas",
+            "height": 400,
+            "width": 267,
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-example/62926938/89362651c76edb5cf0ace80ecf57a990/full/200,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 200
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-example/62926938/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://kyaskowich.github.io/booktok-collection-example/62926938/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://kyaskowich.github.io/booktok-collection-example/62926938/canvas/1",
+                            "body": {
+                                "id": "https://kyaskowich.github.io/booktok-collection-example/62926938/89362651c76edb5cf0ace80ecf57a990/full/267,400/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 400,
+                                "width": 267,
+                                "service": [
+                                    {
+                                        "id": "https://kyaskowich.github.io/booktok-collection-example/62926938/89362651c76edb5cf0ace80ecf57a990",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
