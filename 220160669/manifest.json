@@ -1,0 +1,228 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://kyaskowich.github.io/booktok-collection-example/220160669/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Florida Palms"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Original Date of Publication"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2025"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Description"
+                ]
+            },
+            "value": {
+                "none": [
+                    "New York Times Editors' Choice\nLibrary Journal (starred review)\nCrimeReads Most Anticipated Book of 2025\nJordy's Book Club Anticipated Book of the Summer\n\nNew York Times Book Review: \"An overall vibe of doom � a musky, Florida-specific stew of sweat, blood, swamp gas and amphetamine addiction.\"\n\nThe Outsiders meets Sons of Anarchy in this gripping debut about a group of young men dragged into a drug-running operation.\n\nIt�s 2009, the height of the Great Recession. Best friends Eddy, Cueball, and Jesse are fresh out of high school and wild at heart, but the economy is in the dumps. With jobs scarce along Florida�s Space Coast, they join a furniture-moving company run by Cueball�s father, a gruff ex-con biker who�s supposedly retired from the fast life. But when a mysterious old boss arrives in town, the payload is switched out, and the young men are coerced into shipping a new designer drug up the East Coast.\n\nWhat is advertised as a bastion of brotherhood and respect quickly spirals into back-alley deals, bloodshed, and an all-out turf war that will test the bounds of love and friendship. Enticed by larger paychecks, and fueled by burgeoning drug habits, the young friends find themselves trapped between rank opportunists, warring gangsters, meth zombies, crazed bikers, and a blowgun-wielding hitman, all vying for a shot at the big time.\n\nSoaring, ambitious, and deeply humane, Florida Palms is a gritty coming-of-age story with enormous heart and an unflinching vision of the violence and inequities facing forgotten communities. In a relentless race against desperate circumstances, the young friends must fully embrace the crime life or abandon their loyalties and risk ending up face down in the muck of the unforgiving swamps."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Author"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Joe Pan"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Demographic"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Adult"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Genre Category"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fiction"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Primary Genre"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Contemporary Literary Fiction"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Secondary Genre"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Mystery Thriller"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Publisher/Imprint"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Simon & Schuster"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "ISBN"
+                ]
+            },
+            "value": {
+                "none": [
+                    "9781668052181"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "LGBTQ+ Representation"
+                ]
+            },
+            "value": {
+                "none": [
+                    "LGBTQ+ Characters"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Image URL"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1728674294i/220160669.jpg"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Goodreads Link"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://www.goodreads.com/book/show/220160669-florida-palms"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Tag"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Literary Aesthetic",
+                    "#ThrillerTok"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-example/220160669/4e556cf983666c0f78f5abf94ae5e9e0/full/199,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 199
+        }
+    ],
+    "items": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-example/220160669/canvas/1",
+            "type": "Canvas",
+            "height": 961,
+            "width": 636,
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-example/220160669/4e556cf983666c0f78f5abf94ae5e9e0/full/199,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 199
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-example/220160669/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://kyaskowich.github.io/booktok-collection-example/220160669/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://kyaskowich.github.io/booktok-collection-example/220160669/canvas/1",
+                            "body": {
+                                "id": "https://kyaskowich.github.io/booktok-collection-example/220160669/4e556cf983666c0f78f5abf94ae5e9e0/full/636,961/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 961,
+                                "width": 636,
+                                "service": [
+                                    {
+                                        "id": "https://kyaskowich.github.io/booktok-collection-example/220160669/4e556cf983666c0f78f5abf94ae5e9e0",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
