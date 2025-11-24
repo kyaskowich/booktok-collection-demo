@@ -1,0 +1,216 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://kyaskowich.github.io/booktok-collection-example/59208211/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Feel the Bern (Bernie Sanders Mystery #1)"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Original Date of Publication"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2022"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Description"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Who knew fighting for a living wage could be so deadly? Bernie Sanders and his Gen Z intern are drawn into a murder investigation in a small Vermont town in this hilarious spin on cozy mysteries from the New York Times bestselling author of Hope Never Dies: An Obama Biden Mystery\n\n\nFall is bursting out all over Vermont, and while the rest of the Congress enjoys its recess, Senator Bernie Sanders has returned to his beloved home state for a weekend of events in Eagle Creek, �America�s #1 Leaf Peeping Destination.� It�s up to intern and Eagle Creek native Crash Robertson to keep the senator on schedule�and out of trouble.\n\nCrash�s hopes for a quiet homecoming are dashed, however, when the lifeless body of a community banker with ties to �Big Maple� is found in Lake Champlain. While the sheriff�s department closes the case as an accident, a leaked autopsy indicates foul play�with a trail of syrup leading directly to one of the senator�s oldest friends. Bernie, taking a page from the cozy mysteries he�s addicted to, enlists Crash in a quest to uncover the killer�s true identity.\n\nIf Crash allows the senator to go too far off-script, it will be the end of her yet-to-begin political career. But as the suspect list grows to include a tech bro set on �disrupting� the maple syrup industry, struggling small-business owners, and even Crash�s own family, she realizes there�s more on the line than her own future. If the unlikely duo can�t solve the mystery of the Maple Murderer before they strike again, Bernie�s life-long fight for justice may come to an unplanned end.\n\nThis (totally fictional!) mystery also features recipes from Eagle Creek�s Vermont Country Shed, including Vermont Cheddar Mac & Cheese, �Feel the Bern!� Maple Sriracha Hot Sauce, and more!"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Author"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Andrew Shaffer"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Demographic"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Adult"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Genre Category"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fiction"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Primary Genre"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Mystery Fiction"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Secondary Genre"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Comedy"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Publisher/Imprint"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Crown Publishing Group; Ten Speed Press"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "ISBN"
+                ]
+            },
+            "value": {
+                "none": [
+                    "9781984861146"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Image URL"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1662682752i/59208211.jpg"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Goodreads Link"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://www.goodreads.com/book/show/59208211-feel-the-bern"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Tag"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Cozy",
+                    "#ThrillerTok"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-example/59208211/e735566dfe0feaccd0db4e3e57f72455/full/194,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 194
+        }
+    ],
+    "items": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-example/59208211/canvas/1",
+            "type": "Canvas",
+            "height": 961,
+            "width": 623,
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-example/59208211/e735566dfe0feaccd0db4e3e57f72455/full/194,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 194
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-example/59208211/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://kyaskowich.github.io/booktok-collection-example/59208211/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://kyaskowich.github.io/booktok-collection-example/59208211/canvas/1",
+                            "body": {
+                                "id": "https://kyaskowich.github.io/booktok-collection-example/59208211/e735566dfe0feaccd0db4e3e57f72455/full/623,961/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 961,
+                                "width": 623,
+                                "service": [
+                                    {
+                                        "id": "https://kyaskowich.github.io/booktok-collection-example/59208211/e735566dfe0feaccd0db4e3e57f72455",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
