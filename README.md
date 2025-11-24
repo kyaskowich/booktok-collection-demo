@@ -14,24 +14,24 @@ An open-source static site generator designed for fast creation, contextualizati
 
 ### Install Dependencies
 
-```shell
+
 # installation
 npm i
-```
+
 
 ### Running in Development
 
-```shell
+
 # development
 npm run dev
-```
+
 
 ### Building in Production
 
-```shell
+
 # build
 npm run build
-```
+
 
 ## Tests
 
