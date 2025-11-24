@@ -1,0 +1,206 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://kyaskowich.github.io/booktok-collection-example/62215065/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Chase and the Girl Who Came Back (New Hope World #1)"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Original Date of Publication"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2022"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Description"
+                ]
+            },
+            "value": {
+                "none": [
+                    "When Yasmin returned to Canary Bay, she was desperate for things in her life to change. After raising her younger sister for most of her teenage years, Yasmin was just trying to get through the year.\n\nThe plan was simple:\n� Spend time as much time as possible with Millie\n� Get accepted into New Hope University\n� Read as many books as she could\n\nChase and his friends are pretty much family. Each have their own pasts and struggles, but they will always look out for each other, protect each other, and don't easily let people into their circle.\n\nWhen Yasmin shows up on his driveway at 6am wearing princess pyjamas and blurting out \"Are you a serial killer?\" Chase doesn�t know what to think or understand why he is drawn to her.\n\nThe attraction is instant. He can see the pain in her eyes and recognises the wall she's built around herself. He knows he'd do anything to protect her. Surprisingly, his friends feel the same way when they meet her.\n\nBut what happens when they both find out that this isn't the first time they've met?\n\nWill Yasmin be able to let Chase and his friends in and finally have the family she's craved?\n\nChase and the girl who came back is part of the New Hope World. There will be multiple books focused in or around New Hope and plenty of character cameos and crossovers, however each book will be able to be read as a standalone."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Author"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Amber Davis"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Demographic"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Young Adult"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Genre Category"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fiction"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Primary Genre"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Contemporary Romance"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Publisher/Imprint"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Independently Published"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "ISBN"
+                ]
+            },
+            "value": {
+                "none": [
+                    "9780645521306"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Image URL"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1662058733i/62215065.jpg"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Goodreads Link"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://www.goodreads.com/book/show/62215065-chase-and-the-girl-who-came-back"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Tag"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Friends-to-Lovers",
+                    "Found Family",
+                    "Second Chance",
+                    "YA Reads"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-example/62215065/046440444960183d22bdb78df7da8127/full/199,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 199
+        }
+    ],
+    "items": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-example/62215065/canvas/1",
+            "type": "Canvas",
+            "height": 500,
+            "width": 331,
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-example/62215065/046440444960183d22bdb78df7da8127/full/199,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 199
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-example/62215065/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://kyaskowich.github.io/booktok-collection-example/62215065/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://kyaskowich.github.io/booktok-collection-example/62215065/canvas/1",
+                            "body": {
+                                "id": "https://kyaskowich.github.io/booktok-collection-example/62215065/046440444960183d22bdb78df7da8127/full/331,500/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 500,
+                                "width": 331,
+                                "service": [
+                                    {
+                                        "id": "https://kyaskowich.github.io/booktok-collection-example/62215065/046440444960183d22bdb78df7da8127",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
