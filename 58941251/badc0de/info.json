@@ -1,0 +1,25 @@
+{
+  "@context": "http://iiif.io/api/image/3/context.json",
+  "id": "https://kyaskowich.github.io/booktok-collection-example/58941251/badc0de",
+  "type": "ImageService3",
+  "profile": "level0",
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [
+        1,
+        2
+      ],
+      "width": 256
+    }
+  ],
+  "width": 230,
+  "height": 346,
+  "sizes": [
+    {
+      "width": 199,
+      "height": 300
+    },
+    {}
+  ]
+}
