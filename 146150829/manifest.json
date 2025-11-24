@@ -1,0 +1,229 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://kyaskowich.github.io/booktok-collection-example/146150829/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Star-Crossed Letters (Falling for Famous, #1)"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Original Date of Publication"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2023"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Spice Level"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2/5"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Rating Explanation"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Based on ratings adapted from Romance.io. Non-romance titles or titles with unknown ratings default to 0/5."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Description"
+                ]
+            },
+            "value": {
+                "none": [
+                    "One girl with a typewriter + one movie star = anonymous pen pals, a secret crush, and a steamy, slow-burn summer to risk it all.\n\nThe bookshop barista�\nWhen I sold a vintage typewriter, I never imagined its new owner would become my pen pal, best friend, and secret crush.\nWe have two rules: no photos and no real names.\n\nOver the years, �Remington� and I go from typewritten notes to daily texts, but our rules stay the same. And so does my life. I�m a wannabe writer who can�t complete a novel, and I�ve fallen for a guy who I�ve never met.\n\nSo when I receive a letter my Nanna wrote before she died encouraging me to embark on a summer of risks�my first on the list is to break all the rules.\n\n& the celebrity...\nI hate keeping secrets from my pen pal, the one woman I care about. But I�m Hollywood�s hottest celebrity, and my fame is toxic. If I get close to a girl, she becomes vulnerable, stalked by the tabloids, trolls, and superfans.\n\nOur anonymous friendship works until �Typewriter Girl� suddenly ghosts me. Now, I�ll do anything to ensure she�s safe, including stepping out from behind the screen and leading a double life.\n\nStar-Crossed Letters is book 1 in the Falling for Famous contemporary romance series. It features:\n*Friends to lovers\n*Slow burn & swoony\n*Movie star hero & ordinary girl\n*Secret crush\n*Mysterious pen pal\n*Forced proximity in a Malibu mansion\n*Bookshop and cafe vibes\n*Meet-cute involving a typewriter"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Author"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Sarah Deeham"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Demographic"
+                ]
+            },
+            "value": {
+                "none": [
+                    "New Adult"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Genre Category"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fiction"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Primary Genre"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Contemporary Romance"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Publisher/Imprint"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Independently Published"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "ISBN"
+                ]
+            },
+            "value": {
+                "none": [
+                    "9798392756766"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Image URL"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1682956677i/146150829.jpg"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Goodreads Link"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://www.goodreads.com/book/show/146150829-star-crossed-letters"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Tag"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Friends-to-Lovers",
+                    "Forced Proximity",
+                    "Slow Burn"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-example/146150829/5cd19043c5d0f2c24dc4e69116d9caec/full/194,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 194
+        }
+    ],
+    "items": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-example/146150829/canvas/1",
+            "type": "Canvas",
+            "height": 500,
+            "width": 324,
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-example/146150829/5cd19043c5d0f2c24dc4e69116d9caec/full/194,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 194
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-example/146150829/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://kyaskowich.github.io/booktok-collection-example/146150829/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://kyaskowich.github.io/booktok-collection-example/146150829/canvas/1",
+                            "body": {
+                                "id": "https://kyaskowich.github.io/booktok-collection-example/146150829/5cd19043c5d0f2c24dc4e69116d9caec/full/324,500/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 500,
+                                "width": 324,
+                                "service": [
+                                    {
+                                        "id": "https://kyaskowich.github.io/booktok-collection-example/146150829/5cd19043c5d0f2c24dc4e69116d9caec",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
