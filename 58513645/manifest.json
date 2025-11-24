@@ -1,0 +1,204 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://kyaskowich.github.io/booktok-collection-example/58513645/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Definitely (Maybe) Dating (The Eastons #2)"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Original Date of Publication"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2021"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Description"
+                ]
+            },
+            "value": {
+                "none": [
+                    "All is fair in love and war . . .\n\nFrom New York Times bestselling author Marina Adair, comes a laugh out loud, tender and heartfelt opposites attract romantic comedy that fans of Christina Lauren, Sarah Morgan, and Jill Shalvis will adore.\n\nAs far as Piper Lewis is concerned, happily ever after was about as realistic as finding Prince Charming riding a unicorn, but since street art doesn�t pay the bills she accepts a job as the resident photographer for Portland�s most popular historic wedding venue. Her role as the Ansel Adams of Love is nearly cut short when she has car troubles and her tall, dark and delicious driver-for-hire, takes one look at her mud-soaked clothes and tries to flee. Except years on the streets made Piper�s reflexes faster than his four-hundred horsepower, and with one calculated move she�s in the backseat, telling him exactly where she�ll shove his tip. Only he isn�t a driver at all, he�s the Best Man. And while he might not be a prince, he still manages to charm her into a kiss, but that�s all she�s open to.\n\nJosh Easton goes toe to toe with some of the toughest criminals on the streets every day. There isn�t a fight he won�t take on, which is why he�s running to be the Portland District Attorney. So when the mayor promises Josh an endorsement in exchange for a small favor, he doesn�t hesitate to help with the Ladies Auxiliary League annual fundraiser. He never imagines that a bunch of Portland socialites could land him in hot water�and up the conflict, with the intoxicating artist whose lips made a lasting impression."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Author"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Marina Adair"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Demographic"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Adult"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Genre Category"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fiction"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Primary Genre"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Contemporary Romance"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Publisher/Imprint"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Independently Published; The Adair Group"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "ISBN"
+                ]
+            },
+            "value": {
+                "none": [
+                    "9781947591165"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Image URL"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1625717455i/58513645.jpg"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Goodreads Link"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://www.goodreads.com/book/show/58513645-definitely-maybe-dating"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Tag"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Enemies to Lovers",
+                    "Fake Dating"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-example/58513645/e7c5bf186194994cc349534469f60f2f/full/209,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 209
+        }
+    ],
+    "items": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-example/58513645/canvas/1",
+            "type": "Canvas",
+            "height": 961,
+            "width": 668,
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-example/58513645/e7c5bf186194994cc349534469f60f2f/full/209,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 209
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-example/58513645/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://kyaskowich.github.io/booktok-collection-example/58513645/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://kyaskowich.github.io/booktok-collection-example/58513645/canvas/1",
+                            "body": {
+                                "id": "https://kyaskowich.github.io/booktok-collection-example/58513645/e7c5bf186194994cc349534469f60f2f/full/668,961/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 961,
+                                "width": 668,
+                                "service": [
+                                    {
+                                        "id": "https://kyaskowich.github.io/booktok-collection-example/58513645/e7c5bf186194994cc349534469f60f2f",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
