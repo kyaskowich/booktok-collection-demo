@@ -1,0 +1,217 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://kyaskowich.github.io/booktok-collection-example/63017297/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "My Husband"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Original Date of Publication"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2021"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Description"
+                ]
+            },
+            "value": {
+                "none": [
+                    "In this suspenseful and darkly funny debut novel, a sophisticated French woman spends her life obsessing over her perfect husband--but can their marriage survive her passionate love?\n\nAt forty years old, she has an enviable life: a successful career, stunning looks, a beautiful house in the suburbs, two healthy children, and most importantly, an ideal husband. After fifteen years together, she is still besotted with him. But she's never quite sure that her passion is reciprocated. After all, would a truly infatuated man ever let go of his wife's hand when they're sitting on the couch together?\n\nDetermined to keep their relationship perfect, she meticulously prepares for every encounter they have, always taking care to make her actions seem effortless. She watches him attentively, charting every mistake and punishing him accordingly to help him improve. And she tests him--setting traps to make sure that he still loves her just as much as he did when they first met.\n\nUntil one day she realizes she may have gone too far . . .\n\nThe winner of France's First Novel Prize in 2021, My Husband builds on the premise of hits like Gone Girl and Fates and Furies--how well can you really know your spouse?--and adds the tension and creepy obsession of You. The result is an irresistible read--compelling, tense, and engaging, infused with sly subversive humor, and told in an utterly original voice that makes it unforgettable.\n\nTranslated from the French by Emma Ramadan"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Author"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Maud Ventura"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Demographic"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Adult"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Genre Category"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fiction"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Primary Genre"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Contemporary Literary Fiction"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Secondary Genre"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Horror"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Publisher/Imprint"
+                ]
+            },
+            "value": {
+                "none": [
+                    "HarperCollins; HarperVia"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "ISBN"
+                ]
+            },
+            "value": {
+                "none": [
+                    "9780063274822"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Image URL"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1712830683i/63017297.jpg"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Goodreads Link"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://www.goodreads.com/book/show/63017297-my-husband"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Tag"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Literary Aesthetic",
+                    "#HorrorTok",
+                    "#ThrillerTok"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-example/63017297/10a95c379c33aa8207f519839488ccbf/full/199,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 199
+        }
+    ],
+    "items": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-example/63017297/canvas/1",
+            "type": "Canvas",
+            "height": 961,
+            "width": 636,
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-example/63017297/10a95c379c33aa8207f519839488ccbf/full/199,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 199
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-example/63017297/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://kyaskowich.github.io/booktok-collection-example/63017297/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://kyaskowich.github.io/booktok-collection-example/63017297/canvas/1",
+                            "body": {
+                                "id": "https://kyaskowich.github.io/booktok-collection-example/63017297/10a95c379c33aa8207f519839488ccbf/full/636,961/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 961,
+                                "width": 636,
+                                "service": [
+                                    {
+                                        "id": "https://kyaskowich.github.io/booktok-collection-example/63017297/10a95c379c33aa8207f519839488ccbf",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
