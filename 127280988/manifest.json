@@ -1,0 +1,204 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://kyaskowich.github.io/booktok-collection-example/127280988/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Momma Cusses"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Original Date of Publication"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2024"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Description"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Join the millions of fans who love Momma Cusses, TikTok�s #1 Parenting Unexpert!\n\nThere are lots of experts out there who will tell you they have the magic recipe to raising perfect humans. Gwenna Laithland is not one of them. She�s one of us. Frustrated, overwhelmed, and exhausted. Her relatable representation of parenthood validates our experiences. In Momma Cusses, Gwenna uses her signature style of snark and sarcasm to explain her interpretation of responsive parenting vs. reactive parenting and outline the steps she takes to raise her kids. Whether you are a parent or someone who has had a parent, we all need to\nlearn how to handle our emotional spirals responsively.\n\nNow we can all be in it together by tackling some of the hilarious yet all-too-real scenarios Gwenna outlines in her book, including:\n\nYOU WILL LOSE YOUR SH*T:\nMom guilt vs. mom shame\n\nARE YOU YELLING OR ARE YOU JUST BEING LOUD?:\nGet in control of your emotions\n\nTHE BIG FEELS LOOP-DE-LOO:\nGet in control of their emotions\n\nAccessible, digestible, and rooted in reality, Momma Cusses helps readers with navigating family dynamics and cultivating emotional resilience for everyone."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Author"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Gwenna Laithland"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Demographic"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Adult"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Genre Category"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Non-Fiction"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Primary Genre"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Parenting"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Publisher/Imprint"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Macmillan; St. Martin's Essentials"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "ISBN"
+                ]
+            },
+            "value": {
+                "none": [
+                    "9781250882660"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Image URL"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1685544780i/127280988.jpg"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Goodreads Link"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://www.goodreads.com/book/show/127280988-momma-cusses"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Tag"
+                ]
+            },
+            "value": {
+                "none": [
+                    "#ParentingTok",
+                    "Wisdom"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-example/127280988/58b7eca5dd71432d8b5796fe18cc6100/full/196,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 196
+        }
+    ],
+    "items": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-example/127280988/canvas/1",
+            "type": "Canvas",
+            "height": 961,
+            "width": 628,
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-example/127280988/58b7eca5dd71432d8b5796fe18cc6100/full/196,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 196
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-example/127280988/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://kyaskowich.github.io/booktok-collection-example/127280988/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://kyaskowich.github.io/booktok-collection-example/127280988/canvas/1",
+                            "body": {
+                                "id": "https://kyaskowich.github.io/booktok-collection-example/127280988/58b7eca5dd71432d8b5796fe18cc6100/full/628,961/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 961,
+                                "width": 628,
+                                "service": [
+                                    {
+                                        "id": "https://kyaskowich.github.io/booktok-collection-example/127280988/58b7eca5dd71432d8b5796fe18cc6100",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
