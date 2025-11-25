@@ -1,0 +1,216 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://kyaskowich.github.io/booktok-collection-example/54814676/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Crying in H Mart"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Original Date of Publication"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2021"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Description"
+                ]
+            },
+            "value": {
+                "none": [
+                    "The New York Times bestseller from the Grammy-nominated indie rockstar Japanese Breakfast, an unflinching, deeply moving memoir about growing up mixed-race, Korean food, losing her Korean mother, and forging her own identity in the wake of her loss.\n\nIn this exquisite story of family, food, grief, and endurance, Michelle Zauner proves herself far more than a dazzling singer, songwriter, and guitarist. With humour and heart, she tells of growing up the only Asian-American kid at her school in Eugene, Oregon; of struggling with her mother�s particular, high expectations of her; of a painful adolescence; of treasured months spent in her grandmother�s tiny apartment in Seoul, where she and her mother would bond, late at night, over heaping plates of food. As she grew up, moving to the east coast for college, finding work in the restaurant industry, performing gigs with her fledgling band � and meeting the man who would become her husband � her Koreanness began to feel ever more distant, even as she found the life she wanted to live.\n\nIt was her mother�s diagnosis of terminal pancreatic cancer, when Michelle was twenty-five, that forced a reckoning with her identity and brought her to reclaim the gifts of taste, language, and history her mother had given her.\n\nVivacious, lyrical and honest, Michelle Zauner�s voice is as radiantly alive on the page as it is onstage. Rich with intimate anecdotes that will resonate widely, Crying in H Mart is a book to cherish, share, and reread."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Author"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Michelle Zauner"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Demographic"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Adult"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Genre Category"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Non-Fiction"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Primary Genre"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Memoir"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Publisher/Imprint"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Knopf"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "ISBN"
+                ]
+            },
+            "value": {
+                "none": [
+                    "9780525657743"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "BIPOC Author"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Yes"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Image URL"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1601937850i/54814676.jpg"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Goodreads Link"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://www.goodreads.com/book/show/54814676-crying-in-h-mart"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Tag"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Will Make You Ugly Cry",
+                    "Will Change Your Life"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-example/54814676/9eb0caed4ba8e95d7527a643966b5a1d/full/203,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 203
+        }
+    ],
+    "items": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-example/54814676/canvas/1",
+            "type": "Canvas",
+            "height": 400,
+            "width": 271,
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-example/54814676/9eb0caed4ba8e95d7527a643966b5a1d/full/203,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 203
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-example/54814676/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://kyaskowich.github.io/booktok-collection-example/54814676/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://kyaskowich.github.io/booktok-collection-example/54814676/canvas/1",
+                            "body": {
+                                "id": "https://kyaskowich.github.io/booktok-collection-example/54814676/9eb0caed4ba8e95d7527a643966b5a1d/full/271,400/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 400,
+                                "width": 271,
+                                "service": [
+                                    {
+                                        "id": "https://kyaskowich.github.io/booktok-collection-example/54814676/9eb0caed4ba8e95d7527a643966b5a1d",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
