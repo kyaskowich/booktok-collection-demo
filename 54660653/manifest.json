@@ -1,0 +1,240 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://kyaskowich.github.io/booktok-collection-example/54660653/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Twice Shy"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Original Date of Publication"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2021"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Spice Level"
+                ]
+            },
+            "value": {
+                "none": [
+                    "3/5"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Rating Explanation"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Based on ratings adapted from Romance.io. Non-romance titles or titles with unknown ratings default to 0/5."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Description"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Can you find real love when you've always got your head in the clouds? \n\nMaybell Parish has always been a dreamer and a hopeless romantic. But living in her own world has long been preferable to dealing with the disappointments of real life. So when Maybell inherits a charming house in the Smokies from her Great-Aunt Violet, she seizes the opportunity to make a fresh start.\n\nYet when she arrives, it seems her troubles have only just begun. Not only is the house falling apart around her, but she isn't the only inheritor: she has to share everything with Wesley Koehler, the groundskeeper who's as grouchy as he is gorgeous�and it turns out he has very different vision for the property's future.\n\nConvincing the taciturn Wesley to stop avoiding her and compromise is a task more formidable than the other dying wishes Great-Aunt Violet left behind. But when Maybell uncovers something unexpectedly sweet beneath Wesley's scowls, and as the two slowly begin to let their guard down, they might learn that sometimes the smallest steps outside one's comfort zone can lead to the greatest rewards."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Author"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Sarah Hogle"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Demographic"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Adult"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Genre Category"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fiction"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Primary Genre"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Contemporary Romance"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Secondary Genre"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Contemporary Chick Lit"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Publisher/Imprint"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Penguin; G.P. Putnam's Sons"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "ISBN"
+                ]
+            },
+            "value": {
+                "none": [
+                    "9780593085530"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Image URL"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1595608490i/54660653.jpg"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Goodreads Link"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://www.goodreads.com/book/show/54660653-twice-shy"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Tag"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Enemies to Lovers",
+                    "Forced Proximity"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-example/54660653/7cf508815919e304e3c26db661d7a7f4/full/200,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 200
+        }
+    ],
+    "items": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-example/54660653/canvas/1",
+            "type": "Canvas",
+            "height": 960,
+            "width": 640,
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-example/54660653/7cf508815919e304e3c26db661d7a7f4/full/200,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 200
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-example/54660653/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://kyaskowich.github.io/booktok-collection-example/54660653/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://kyaskowich.github.io/booktok-collection-example/54660653/canvas/1",
+                            "body": {
+                                "id": "https://kyaskowich.github.io/booktok-collection-example/54660653/7cf508815919e304e3c26db661d7a7f4/full/640,960/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 960,
+                                "width": 640,
+                                "service": [
+                                    {
+                                        "id": "https://kyaskowich.github.io/booktok-collection-example/54660653/7cf508815919e304e3c26db661d7a7f4",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

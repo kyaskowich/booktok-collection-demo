@@ -1,0 +1,255 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://kyaskowich.github.io/booktok-collection-example/54738255/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "If This Gets Out"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Original Date of Publication"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2021"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Spice Level"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2/5"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Rating Explanation"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Based on ratings adapted from Romance.io. Non-romance titles or titles with unknown ratings default to 0/5."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Description"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Eighteen-year-olds Ruben Montez and Zach Knight are two members of the boy-band Saturday, one of the biggest acts in America. Along with their bandmates, Angel Phan and Jon Braxton, the four are teen heartbreakers in front of the cameras and best friends backstage. But privately, cracks are starting to form: their once-easy rapport is straining under the pressures of fame, and Ruben confides in Zach that he�s feeling smothered by management�s pressure to stay in the closet.\n\nOn a whirlwind tour through Europe, with both an unrelenting schedule and minimal supervision, Ruben and Zach come to rely on each other more and more, and their already close friendship evolves into a romance. But when they decide they�re ready to tell their fans and live freely, Zach and Ruben start to truly realize that they will never have the support of their management. How can they hold tight to each other when the whole world seems to want to come between them?"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Author"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Sophie Gonzales"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Demographic"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Young Adult"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Genre Category"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fiction"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Primary Genre"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Contemporary Romance"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Secondary Genre"
+                ]
+            },
+            "value": {
+                "none": [
+                    "LGBTQ+ Romance"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Publisher/Imprint"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Macmillan; Wednesday Books"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "ISBN"
+                ]
+            },
+            "value": {
+                "none": [
+                    "9781250805805"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "LGBTQ+ Representation"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Gay Romance Fiction, Bisexual Characters, Gay Characters, Queer Awakening"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Image URL"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1610723548i/54738255.jpg"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Goodreads Link"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://www.goodreads.com/book/show/54738255-if-this-gets-out"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Tag"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Found Family",
+                    "Forced Proximity",
+                    "Friends-to-Lovers",
+                    "Secret Relationship",
+                    "YA Reads"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-example/54738255/94f97b033fe83dc3dc978e287c4abf0b/full/195,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 195
+        }
+    ],
+    "items": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-example/54738255/canvas/1",
+            "type": "Canvas",
+            "height": 961,
+            "width": 624,
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-example/54738255/94f97b033fe83dc3dc978e287c4abf0b/full/195,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 195
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-example/54738255/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://kyaskowich.github.io/booktok-collection-example/54738255/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://kyaskowich.github.io/booktok-collection-example/54738255/canvas/1",
+                            "body": {
+                                "id": "https://kyaskowich.github.io/booktok-collection-example/54738255/94f97b033fe83dc3dc978e287c4abf0b/full/624,961/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 961,
+                                "width": 624,
+                                "service": [
+                                    {
+                                        "id": "https://kyaskowich.github.io/booktok-collection-example/54738255/94f97b033fe83dc3dc978e287c4abf0b",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
