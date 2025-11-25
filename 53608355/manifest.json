@@ -1,0 +1,232 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://kyaskowich.github.io/booktok-collection-example/53608355/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "The Favor"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Original Date of Publication"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2020"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Spice Level"
+                ]
+            },
+            "value": {
+                "none": [
+                    "4/5"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Rating Explanation"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Based on ratings adapted from Romance.io. Non-romance titles or titles with unknown ratings default to 0/5."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Description"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Vienna Stratton knew she only had herself to blame. You didn�t let yourself become indebted to a man like Dane Davenport, no matter how badly you needed his help. As his personal assistant, she was very aware that the globally successful CEO was ruthless and unforgiving. \n\nOf course, if she�d known he�d request that she be his wife for twelve months, she�d have hesitated in accepting his help. Because what she�d learned from Dane was that the devil wasn�t ugly and terrorising. He was seductive and captivating. He hummed with whispers of temptation � the temptation to sin and surrender, to let him brand and possess you. He awakened every need and fantasy you had.\n\nHe could even make you love him."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Author"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Suzanne Wright"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Demographic"
+                ]
+            },
+            "value": {
+                "none": [
+                    "New Adult"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Genre Category"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fiction"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Primary Genre"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Contemporary Romance"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Publisher/Imprint"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Independently Published"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "ISBN"
+                ]
+            },
+            "value": {
+                "none": [
+                    "9798515559380"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Image URL"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1598134731i/53608355.jpg"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Goodreads Link"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://www.goodreads.com/book/show/53608355-the-favor"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Tag"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fake Dating",
+                    "Forced Proximity",
+                    "Slow Burn",
+                    "Angst",
+                    "Marriage of Convenience",
+                    "#SpicyTok"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-example/53608355/28ee7ee57ef1b5fd88085f840ead2038/full/200,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 200
+        }
+    ],
+    "items": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-example/53608355/canvas/1",
+            "type": "Canvas",
+            "height": 500,
+            "width": 333,
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-example/53608355/28ee7ee57ef1b5fd88085f840ead2038/full/200,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 200
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-example/53608355/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://kyaskowich.github.io/booktok-collection-example/53608355/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://kyaskowich.github.io/booktok-collection-example/53608355/canvas/1",
+                            "body": {
+                                "id": "https://kyaskowich.github.io/booktok-collection-example/53608355/28ee7ee57ef1b5fd88085f840ead2038/full/333,500/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 500,
+                                "width": 333,
+                                "service": [
+                                    {
+                                        "id": "https://kyaskowich.github.io/booktok-collection-example/53608355/28ee7ee57ef1b5fd88085f840ead2038",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
