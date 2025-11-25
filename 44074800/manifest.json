@@ -1,0 +1,216 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://kyaskowich.github.io/booktok-collection-demo/44074800/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "The Southern Book Club's Guide to Slaying Vampires"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Original Date of Publication"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2020"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Description"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fried Green Tomatoes and Steel Magnolias meet Dracula in this Southern-flavored supernatural thriller set in the '90s about a women's book club that must protect its suburban community from a mysterious and handsome stranger who turns out to be a blood-sucking fiend.\n\nPatricia Campbell had always planned for a big life, but after giving up her career as a nurse to marry an ambitious doctor and become a mother, Patricia's life has never felt smaller. The days are long, her kids are ungrateful, her husband is distant, and her to-do list is never really done. The one thing she has to look forward to is her book club, a group of Charleston mothers united only by their love for true-crime and suspenseful fiction. In these meetings, they're more likely to discuss the FBI's recent siege of Waco as much as the ups and downs of marriage and motherhood.\n\nBut when an artistic and sensitive stranger moves into the neighborhood, the book club's meetings turn into speculation about the newcomer. Patricia is initially attracted to him, but when some local children go missing, she starts to suspect the newcomer is involved. She begins her own investigation, assuming that he's a Jeffrey Dahmer or Ted Bundy. What she uncovers is far more terrifying, and soon she--and her book club--are the only people standing between the monster they've invited into their homes and their unsuspecting community."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Author"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Grady Hendrix"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Demographic"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Adult"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Genre Category"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fiction"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Primary Genre"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Horror"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Secondary Genre"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Paranormal Fiction"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Publisher/Imprint"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Quirk Books"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "ISBN"
+                ]
+            },
+            "value": {
+                "none": [
+                    "9781094136936"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Image URL"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1584222716i/44074800.jpg"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Goodreads Link"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://www.goodreads.com/book/show/44074800-the-southern-book-club-s-guide-to-slaying-vampires"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Tag"
+                ]
+            },
+            "value": {
+                "none": [
+                    "#HorrorTok",
+                    "#ThrillerTok"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-demo/44074800/c537f64f40f059f8fa0bc40f09985298/full/200,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 200
+        }
+    ],
+    "items": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-demo/44074800/canvas/1",
+            "type": "Canvas",
+            "height": 614,
+            "width": 409,
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-demo/44074800/c537f64f40f059f8fa0bc40f09985298/full/200,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 200
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-demo/44074800/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://kyaskowich.github.io/booktok-collection-demo/44074800/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://kyaskowich.github.io/booktok-collection-demo/44074800/canvas/1",
+                            "body": {
+                                "id": "https://kyaskowich.github.io/booktok-collection-demo/44074800/c537f64f40f059f8fa0bc40f09985298/full/409,614/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 614,
+                                "width": 409,
+                                "service": [
+                                    {
+                                        "id": "https://kyaskowich.github.io/booktok-collection-demo/44074800/c537f64f40f059f8fa0bc40f09985298",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
