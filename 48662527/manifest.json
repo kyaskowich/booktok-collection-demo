@@ -1,0 +1,243 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://kyaskowich.github.io/booktok-collection-demo/48662527/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Beautifully Cruel (Beautifully Cruel #1)"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Original Date of Publication"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2020"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Spice Level"
+                ]
+            },
+            "value": {
+                "none": [
+                    "4/5"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Rating Explanation"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Based on ratings adapted from Romance.io. Non-romance titles or titles with unknown ratings default to 0/5."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Description"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Alpha (noun): \n1) Having the highest rank in a dominance hierarchy \n2) The most powerful man in a group \n3) Liam Black \n \nHe was a stranger to me, a dark and dangerous presence who materialized from the shadows one rainy night to save me from a vicious attack. I didn�t know his name or where he was from. All I knew was that the only place I�d ever felt safe was in his arms. \n \nBut safety is an illusion. \nAnd not every savior is a hero. \nAnd�as I�d soon find out�having an alpha save your life comes with a price. \n \nLiam Black wanted something from me in return."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Author"
+                ]
+            },
+            "value": {
+                "none": [
+                    "J.T. Geissinger"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Demographic"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Adult"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Genre Category"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fiction"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Primary Genre"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Dark Romance"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Secondary Genre"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Mafia Romance"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Publisher/Imprint"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Independently Published; J.T. Geissinger Inc."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "ISBN"
+                ]
+            },
+            "value": {
+                "none": [
+                    "9781733824361"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Image URL"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1582633554i/48662527.jpg"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Goodreads Link"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://www.goodreads.com/book/show/48662527-beautifully-cruel"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Tag"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Forced Proximity",
+                    "Angst",
+                    "Forbidden Love",
+                    "#SpicyTok",
+                    "Dark Romance"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-demo/48662527/42c94531338e2039f563f4081a0435b3/full/193,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 193
+        }
+    ],
+    "items": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-demo/48662527/canvas/1",
+            "type": "Canvas",
+            "height": 500,
+            "width": 322,
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-demo/48662527/42c94531338e2039f563f4081a0435b3/full/193,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 193
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-demo/48662527/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://kyaskowich.github.io/booktok-collection-demo/48662527/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://kyaskowich.github.io/booktok-collection-demo/48662527/canvas/1",
+                            "body": {
+                                "id": "https://kyaskowich.github.io/booktok-collection-demo/48662527/42c94531338e2039f563f4081a0435b3/full/322,500/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 500,
+                                "width": 322,
+                                "service": [
+                                    {
+                                        "id": "https://kyaskowich.github.io/booktok-collection-demo/48662527/42c94531338e2039f563f4081a0435b3",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
