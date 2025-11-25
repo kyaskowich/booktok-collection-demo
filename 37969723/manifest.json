@@ -1,0 +1,228 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://kyaskowich.github.io/booktok-collection-demo/37969723/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "The Silence of the Girls (Women of Troy #1)"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Original Date of Publication"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2018"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Description"
+                ]
+            },
+            "value": {
+                "none": [
+                    "The ancient city of Troy has withstood a decade under siege of the powerful Greek army, which continues to wage bloody war over a stolen woman�Helen. In the Greek camp, another woman�Briseis�watches and waits for the war's outcome. She was queen of one of Troy's neighboring kingdoms, until Achilles, Greece's greatest warrior, sacked her city and murdered her husband and brothers. Briseis becomes Achilles's concubine, a prize of battle, and must adjust quickly in order to survive a radically different life, as one of the many conquered women who serve the Greek army. \n\nWhen Agamemnon, the brutal political leader of the Greek forces, demands Briseis for himself, she finds herself caught between the two most powerful of the Greeks. Achilles refuses to fight in protest, and the Greeks begin to lose ground to their Trojan opponents. Keenly observant and coolly unflinching about the daily horrors of war, Briseis finds herself in an unprecedented position, able to observe the two men driving the Greek army in what will become their final confrontation, deciding the fate not only of Briseis's people but also of the ancient world at large.\n\nBriseis is just one among thousands of women living behind the scenes in this war�the slaves and prostitutes, the nurses, the women who lay out the dead�all of them erased by history. With breathtaking historical detail and luminous prose, Pat Barker brings the teeming world of the Greek camp to vivid life. She offers nuanced, complex portraits of characters and stories familiar from mythology, which, seen from Briseis's perspective, are rife with newfound revelations. Barker's latest builds on her decades-long study of war and its impact on individual lives�and it is nothing short of magnificent."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Author"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Pat Barker"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Demographic"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Adult"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Genre Category"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fiction"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Primary Genre"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Greek Mythology Retellings"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Secondary Genre"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Historical Fiction"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Publisher/Imprint"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Doubleday"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "ISBN"
+                ]
+            },
+            "value": {
+                "none": [
+                    "9780241983218"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "LGBTQ+ Representation"
+                ]
+            },
+            "value": {
+                "none": [
+                    "LGBTQ+ Characters"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Image URL"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1519448688i/37969723.jpg"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Goodreads Link"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://www.goodreads.com/book/show/37969723-the-silence-of-the-girls"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Tag"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Feminist",
+                    "Will Make You Ugly Cry"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-demo/37969723/d96285652c68f4e9b8852d52d4398d01/full/199,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 199
+        }
+    ],
+    "items": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-demo/37969723/canvas/1",
+            "type": "Canvas",
+            "height": 961,
+            "width": 636,
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-demo/37969723/d96285652c68f4e9b8852d52d4398d01/full/199,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 199
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-demo/37969723/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://kyaskowich.github.io/booktok-collection-demo/37969723/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://kyaskowich.github.io/booktok-collection-demo/37969723/canvas/1",
+                            "body": {
+                                "id": "https://kyaskowich.github.io/booktok-collection-demo/37969723/d96285652c68f4e9b8852d52d4398d01/full/636,961/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 961,
+                                "width": 636,
+                                "service": [
+                                    {
+                                        "id": "https://kyaskowich.github.io/booktok-collection-demo/37969723/d96285652c68f4e9b8852d52d4398d01",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
