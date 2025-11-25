@@ -1,0 +1,269 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://kyaskowich.github.io/booktok-collection-demo/34992959/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Defy Me (Shatter Me, #5)"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Original Date of Publication"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2019"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Spice Level"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2/5"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Rating Explanation"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Based on ratings adapted from Romance.io. Non-romance titles or titles with unknown ratings default to 0/5."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Description"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Will Juliette�s broken heart make her vulnerable to the strengthening darkness within her?\n\nJuliette�s short tenure as the supreme commander of North America has been an utter disaster. When the children of the other world leaders show up on her doorstep, she wants nothing more than to turn to Warner for support and guidance. But he shatters her heart when he reveals that he�s been keeping secrets about her family and her identity from her�secrets that change everything.\n\nJuliette is devastated, and the darkness that�s always dwelled within her threatens to consume her. An explosive encounter with unexpected visitors might be enough to push her over the edge."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Author"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Tahereh Mafi"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Demographic"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Young Adult"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Genre Category"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fiction"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Primary Genre"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Dystopian Fantasy"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Secondary Genre"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Science Fiction Romance"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Publisher/Imprint"
+                ]
+            },
+            "value": {
+                "none": [
+                    "HarperCollins; HarperTeen"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "ISBN"
+                ]
+            },
+            "value": {
+                "none": [
+                    "9780062676399"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "BIPOC Author"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Yes"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "BIPOC Character(s)"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Yes"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Image URL"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1548349704i/34992959.jpg"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Goodreads Link"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://www.goodreads.com/book/show/34992959-defy-me"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Tag"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Enemies to Lovers",
+                    "YA Reads",
+                    "Friends-to-Lovers",
+                    "Second Chance",
+                    "Forbidden Love",
+                    "Found Family",
+                    "Romantasy"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-demo/34992959/cd9346f14b766c4411ce38c89a3501d0/full/199,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 199
+        }
+    ],
+    "items": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-demo/34992959/canvas/1",
+            "type": "Canvas",
+            "height": 961,
+            "width": 636,
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-demo/34992959/cd9346f14b766c4411ce38c89a3501d0/full/199,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 199
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-demo/34992959/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://kyaskowich.github.io/booktok-collection-demo/34992959/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://kyaskowich.github.io/booktok-collection-demo/34992959/canvas/1",
+                            "body": {
+                                "id": "https://kyaskowich.github.io/booktok-collection-demo/34992959/cd9346f14b766c4411ce38c89a3501d0/full/636,961/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 961,
+                                "width": 636,
+                                "service": [
+                                    {
+                                        "id": "https://kyaskowich.github.io/booktok-collection-demo/34992959/cd9346f14b766c4411ce38c89a3501d0",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
