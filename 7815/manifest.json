@@ -1,0 +1,204 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://kyaskowich.github.io/booktok-collection-demo/7815/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "The Year of Magical Thinking"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Original Date of Publication"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2005"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Description"
+                ]
+            },
+            "value": {
+                "none": [
+                    "'An act of consummate literary bravery, a writer known for her clarity allowing us to watch her mind as it becomes clouded with grief.'\n\nFrom one of America's iconic writers, a stunning book of electric honesty and passion. Joan Didion explores an intensely personal yet universal experience: a portrait of a marriage�and a life, in good times and bad�that will speak to anyone who has ever loved a husband or wife or child.\n\nSeveral days before Christmas 2003, John Gregory Dunne and Joan Didion saw their only daughter, Quintana, fall ill with what seemed at first flu, then pneumonia, then complete septic shock. She was put into an induced coma and placed on life support. Days later�the night before New Year's Eve�the Dunnes were just sitting down to dinner after visiting the hospital when John Gregory Dunne suffered a massive and fatal coronary. In a second, this close, symbiotic partnership of forty years was over. Four weeks later, their daughter pulled through. Two months after that, arriving at LAX, she collapsed and underwent six hours of brain surgery at UCLA Medical Center to relieve a massive hematoma.\n\nThis powerful book is Didion's attempt to make sense of the \"weeks and then months that cut loose any fixed idea I ever had about death, about illness . . . about marriage and children and memory . . . about the shallowness of sanity, about life itself.\""
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Author"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Joan Didion"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Demographic"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Adult"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Genre Category"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Non-Fiction"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Primary Genre"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Memoir"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Publisher/Imprint"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Knopf; Vintage Books"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "ISBN"
+                ]
+            },
+            "value": {
+                "none": [
+                    "9781400078431"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Image URL"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1703310133i/7815.jpg"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Goodreads Link"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://www.goodreads.com/book/show/7815.The_Year_of_Magical_Thinking"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Tag"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Will Change Your Life",
+                    "Will Make You Ugly Cry"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-demo/7815/9c33fbdb9e8956603ec9d6d4fc4c89ae/full/196,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 196
+        }
+    ],
+    "items": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-demo/7815/canvas/1",
+            "type": "Canvas",
+            "height": 700,
+            "width": 457,
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-demo/7815/9c33fbdb9e8956603ec9d6d4fc4c89ae/full/196,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 196
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-demo/7815/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://kyaskowich.github.io/booktok-collection-demo/7815/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://kyaskowich.github.io/booktok-collection-demo/7815/canvas/1",
+                            "body": {
+                                "id": "https://kyaskowich.github.io/booktok-collection-demo/7815/9c33fbdb9e8956603ec9d6d4fc4c89ae/full/457,700/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 700,
+                                "width": 457,
+                                "service": [
+                                    {
+                                        "id": "https://kyaskowich.github.io/booktok-collection-demo/7815/9c33fbdb9e8956603ec9d6d4fc4c89ae",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
