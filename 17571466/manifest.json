@@ -1,0 +1,216 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://kyaskowich.github.io/booktok-collection-demo/17571466/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "The Troop"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Original Date of Publication"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2014"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Description"
+                ]
+            },
+            "value": {
+                "none": [
+                    "�It is a fact that cannot be denied: the wickedness of others becomes our own wickedness because it kindles something evil in our own hearts.�\n�Carl Jung\n\nOnce every year, Scoutmaster Tim Riggs leads a troop of boys into the Canadian wilderness for a weekend camping trip � a tradition as comforting and reliable as a good ghost story around a roaring bonfire. The boys are a tight-knit crew. There�s Kent, one of the most popular kids in school; Ephraim and Max, also well-liked and easygoing; then there�s Newt the nerd and Shelley the odd duck. For the most part, they all get along and are happy to be there � which makes Scoutmaster Tim�s job a little easier. But for some reason, he can�t shake the feeling that something strange is in the air this year. Something wicked . . .\n\nIt comes to them in the night. An unexpected intruder, stumbling upon their campsite like a wild animal. He is shockingly thin, disturbingly pale, and voraciously hungry � a man in unspeakable torment who exposes Tim and the boys to something far more frightening than any ghost story. Within his body is a bioengineered nightmare, a horror that spreads faster than fear. One by one, the boys will do things no person could ever imagine.\n\nAnd so it begins. An agonizing weekend in the wilderness. A harrowing struggle for survival. No possible escape from the elements, the infected . . . or one another.\n\nPart Lord of the Flies, part 28 Days Later � and all-consuming � this tightly written, edge-of-your-seat thriller takes you deep into the heart of darkness, where fear feeds on sanity . . . and terror hungers for more."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Author"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Nick Cutter"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Demographic"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Adult"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Genre Category"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fiction"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Primary Genre"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Horror Thriller"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Secondary Genre"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Paranormal Mystery"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Publisher/Imprint"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Simon & Schuster; Gallery Books"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "ISBN"
+                ]
+            },
+            "value": {
+                "none": [
+                    "9781476717715"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Image URL"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1397768496i/17571466.jpg"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Goodreads Link"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://www.goodreads.com/book/show/17571466-the-troop"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Tag"
+                ]
+            },
+            "value": {
+                "none": [
+                    "#HorrorTok",
+                    "#ThrillerTok"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-demo/17571466/9eedd85d42b583ec15f58d183047a13c/full/199,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 199
+        }
+    ],
+    "items": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-demo/17571466/canvas/1",
+            "type": "Canvas",
+            "height": 475,
+            "width": 315,
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-demo/17571466/9eedd85d42b583ec15f58d183047a13c/full/199,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 199
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-demo/17571466/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://kyaskowich.github.io/booktok-collection-demo/17571466/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://kyaskowich.github.io/booktok-collection-demo/17571466/canvas/1",
+                            "body": {
+                                "id": "https://kyaskowich.github.io/booktok-collection-demo/17571466/9eedd85d42b583ec15f58d183047a13c/full/315,475/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 475,
+                                "width": 315,
+                                "service": [
+                                    {
+                                        "id": "https://kyaskowich.github.io/booktok-collection-demo/17571466/9eedd85d42b583ec15f58d183047a13c",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
