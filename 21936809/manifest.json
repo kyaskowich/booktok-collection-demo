@@ -1,0 +1,203 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://kyaskowich.github.io/booktok-collection-demo/21936809/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "The Kind Worth Killing (Henry Kimball/Lily Kintner #1)"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Original Date of Publication"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2015"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Description"
+                ]
+            },
+            "value": {
+                "none": [
+                    "A devious tale of psychological suspense involving sex, deception, and an accidental encounter that leads to murder. Fans of Paula Hawkins� The Girl on the Train will love this modern reimagining of Patricia Highsmith�s classic Strangers on a Train from the author of the acclaimed The Girl with a Clock for a Heart�which the Washington Post said �should be a contender for crime fiction�s best first novel of 2014.�\n\nOn a night flight from London to Boston, Ted Severson meets the stunning and mysterious Lily Kintner. Sharing one too many martinis, the strangers begin to play a game of truth, revealing very intimate details about themselves. Ted talks about his marriage that�s going stale and his wife Miranda, who he�s sure is cheating on him. Ted and his wife were a mismatch from the start�he the rich businessman, she the artistic free spirit�a contrast that once inflamed their passion, but has now become a clich�.\n\nBut their game turns a little darker when Ted jokes that he could kill Miranda for what she�s done. Lily, without missing a beat, says calmly, �I�d like to help.� After all, some people are the kind worth killing, like a lying, stinking, cheating spouse. . . .\n\nBack in Boston, Ted and Lily�s twisted bond grows stronger as they begin to plot Miranda's demise. But there are a few things about Lily�s past that she hasn�t shared with Ted, namely her experience in the art and craft of murder, a journey that began in her very precocious youth.\n\nSuddenly these co-conspirators are embroiled in a chilling game of cat-and-mouse, one they both cannot survive . . . with a shrewd and very determined detective on their tail."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Author"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Peter Swanson"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Demographic"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Adult"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Genre Category"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fiction"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Primary Genre"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Mystery Thriller"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Publisher/Imprint"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Macmillan; William Morrow"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "ISBN"
+                ]
+            },
+            "value": {
+                "none": [
+                    "9780062267528"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Image URL"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1417981750i/21936809.jpg"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Goodreads Link"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://www.goodreads.com/book/show/21936809-the-kind-worth-killing"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Tag"
+                ]
+            },
+            "value": {
+                "none": [
+                    "#ThrillerTok"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-demo/21936809/646a5309a0bd44d3f791d2c7f44594b1/full/197,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 197
+        }
+    ],
+    "items": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-demo/21936809/canvas/1",
+            "type": "Canvas",
+            "height": 400,
+            "width": 263,
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-demo/21936809/646a5309a0bd44d3f791d2c7f44594b1/full/197,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 197
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-demo/21936809/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://kyaskowich.github.io/booktok-collection-demo/21936809/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://kyaskowich.github.io/booktok-collection-demo/21936809/canvas/1",
+                            "body": {
+                                "id": "https://kyaskowich.github.io/booktok-collection-demo/21936809/646a5309a0bd44d3f791d2c7f44594b1/full/263,400/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 400,
+                                "width": 263,
+                                "service": [
+                                    {
+                                        "id": "https://kyaskowich.github.io/booktok-collection-demo/21936809/646a5309a0bd44d3f791d2c7f44594b1",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
