@@ -1,0 +1,257 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://kyaskowich.github.io/booktok-collection-demo/20613920/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Under Locke"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Original Date of Publication"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2014"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Spice Level"
+                ]
+            },
+            "value": {
+                "none": [
+                    "4/5"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Rating Explanation"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Based on ratings adapted from Romance.io. Non-romance titles or titles with unknown ratings default to 0/5."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Description"
+                ]
+            },
+            "value": {
+                "none": [
+                    "He was my boss, my brother�s friend, a Widower, an ex-felon, and a man I�d seen casually with a handful of women. But he was everything that gripped me, both the good and the bad. Worst case scenario if things turned awkward between us, I could go somewhere else. I�d gotten over epic heartbreak before, one more wouldn�t kill me. \n\nAfter moving to Austin following six months of unemployment back home, Iris Taylor knows she should be glad to have landed a job so quickly... even if the business is owned by a member of the same motorcycle club her estranged father used to belong to. Except Dex Locke might just be the biggest jerk she�s ever met. He�s rude, impatient and doesn�t know how to tell time. \n\nAnd the last thing they ever expected was each other. \n\nBut it was either the strip club or the tattoo shop. \n\n� she should have chosen the strip club."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Author"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Mariana Zapata"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Demographic"
+                ]
+            },
+            "value": {
+                "none": [
+                    "New Adult"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Genre Category"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fiction"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Primary Genre"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Contemporary Romance"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Publisher/Imprint"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Independently Published"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "ISBN"
+                ]
+            },
+            "value": {
+                "none": [
+                    "9781953262066"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "BIPOC Author"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Yes"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "BIPOC Character(s)"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Yes"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Image URL"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1390340678i/20613920.jpg"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Goodreads Link"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://www.goodreads.com/book/show/20613920-under-locke"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Tag"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Forced Proximity",
+                    "Enemies to Lovers",
+                    "Angst",
+                    "Friends-to-Lovers",
+                    "Found Family",
+                    "#SpicyTok",
+                    "Slow Burn"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-demo/20613920/88e9c59c1914f439c2e746c0cba36c7a/full/188,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 188
+        }
+    ],
+    "items": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-demo/20613920/canvas/1",
+            "type": "Canvas",
+            "height": 475,
+            "width": 297,
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-demo/20613920/88e9c59c1914f439c2e746c0cba36c7a/full/188,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 188
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-demo/20613920/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://kyaskowich.github.io/booktok-collection-demo/20613920/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://kyaskowich.github.io/booktok-collection-demo/20613920/canvas/1",
+                            "body": {
+                                "id": "https://kyaskowich.github.io/booktok-collection-demo/20613920/88e9c59c1914f439c2e746c0cba36c7a/full/297,475/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 475,
+                                "width": 297,
+                                "service": [
+                                    {
+                                        "id": "https://kyaskowich.github.io/booktok-collection-demo/20613920/88e9c59c1914f439c2e746c0cba36c7a",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
