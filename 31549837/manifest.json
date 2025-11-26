@@ -1,0 +1,248 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://kyaskowich.github.io/booktok-collection-demo/31549837/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "A Love Letter to Whiskey (A Love Letter to Whiskey #1)"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Original Date of Publication"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2016"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Spice Level"
+                ]
+            },
+            "value": {
+                "none": [
+                    "4/5"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Rating Explanation"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Based on ratings adapted from Romance.io. Non-romance titles or titles with unknown ratings default to 0/5."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Description"
+                ]
+            },
+            "value": {
+                "none": [
+                    "This is not your typical love story. \n\n_It�s a story of almosts and could-have-beens.\nOf friendship that teeters on the edge of something more.\nOf passion so intoxicating, it burns.\n\nJamie and B are two hearts caught in the tangle of bad timing and unspoken words. Their connection defies labels�too deep for friendship, too tangled for love. Over a decade of moments, choices, and missed opportunities, they find themselves drawn together like a moth to a flame, even when the world�and their own mistakes�keep pulling them apart.\n\nIs it obsession? Destiny? Or just self-destruction with a pretty face?\n\nSometimes, love isn�t about finding the right person�it�s about the moment when everything aligns. _\nBut what if that moment never comes?"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Author"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Kandi Steiner"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Demographic"
+                ]
+            },
+            "value": {
+                "none": [
+                    "New Adult"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Genre Category"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fiction"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Primary Genre"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Contemporary Romance"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Publisher/Imprint"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Independently Published; Kandi Steiner"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "ISBN"
+                ]
+            },
+            "value": {
+                "none": [
+                    "9781539082422"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "BIPOC Character(s)"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Yes"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Image URL"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1474899327i/31549837.jpg"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Goodreads Link"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://www.goodreads.com/book/show/31549837-a-love-letter-to-whiskey"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Tag"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Forced Proximity",
+                    "Yearning",
+                    "Angst",
+                    "Tortured Character(s)",
+                    "Hurt/Comfort",
+                    "Friends-to-Lovers",
+                    "Second Chance",
+                    "Forbidden Love",
+                    "#SpicyTok",
+                    "Slow Burn"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-demo/31549837/75ed8391f2493b745e50f7058a56c74b/full/188,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 188
+        }
+    ],
+    "items": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-demo/31549837/canvas/1",
+            "type": "Canvas",
+            "height": 957,
+            "width": 600,
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-demo/31549837/75ed8391f2493b745e50f7058a56c74b/full/188,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 188
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-demo/31549837/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://kyaskowich.github.io/booktok-collection-demo/31549837/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://kyaskowich.github.io/booktok-collection-demo/31549837/canvas/1",
+                            "body": {
+                                "id": "https://kyaskowich.github.io/booktok-collection-demo/31549837/75ed8391f2493b745e50f7058a56c74b/full/600,957/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 957,
+                                "width": 600,
+                                "service": [
+                                    {
+                                        "id": "https://kyaskowich.github.io/booktok-collection-demo/31549837/75ed8391f2493b745e50f7058a56c74b",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

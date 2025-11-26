@@ -1,0 +1,243 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://kyaskowich.github.io/booktok-collection-demo/30969741/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "An Enchantment of Ravens"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Original Date of Publication"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2017"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Spice Level"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1/5"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Rating Explanation"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Based on ratings adapted from Romance.io. Non-romance titles or titles with unknown ratings default to 0/5."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Description"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Every enchantment has a price.\n\nWith a flick of her paintbrush, Isobel creates stunning portraits for a dangerous set of clients: the fair folk. These immortal creatures cannot bake bread or put a pen to paper without crumbling to dust. They crave human Craft with a terrible thirst, and they trade valuable enchantments for Isobel�s paintings. But when she receives her first royal patron�Rook, the autumn prince�Isobel makes a deadly mistake. She paints mortal sorrow in his eyes, a weakness that could cost him his throne, and even his life.\n\nFurious, Rook spirits Isobel away to his kingdom to stand trial for her crime. But something is seriously amiss in his world, and they are attacked from every side. With Isobel and Rook depending upon each other for survival, their alliance blossoms into trust, perhaps even love . . . a forbidden emotion that would violate the fair folks� ruthless laws, rendering both their lives forfeit. What force could Isobel's paintings conjure that is powerful enough to defy the ancient malice of the fairy courts?\n\nIsobel and Rook journey along a knife-edge in a lush world where beauty masks corruption and the cost of survival might be more frightening than death itself."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Author"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Margaret Rogerson"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Demographic"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Young Adult"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Genre Category"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fiction"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Primary Genre"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fantasy Romance"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Secondary Genre"
+                ]
+            },
+            "value": {
+                "none": [
+                    "High Fantasy"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Publisher/Imprint"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Simon & Schuster; Margaret K. McElderry Books"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "ISBN"
+                ]
+            },
+            "value": {
+                "none": [
+                    "9781481497589"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Image URL"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1486244049i/30969741.jpg"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Goodreads Link"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://www.goodreads.com/book/show/30969741-an-enchantment-of-ravens"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Tag"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Light Academia",
+                    "Enemies to Lovers",
+                    "YA Reads",
+                    "Forbidden Love",
+                    "Faeries"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-demo/30969741/5cf7e4103267ec4047bc46c6c99b3c73/full/199,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 199
+        }
+    ],
+    "items": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-demo/30969741/canvas/1",
+            "type": "Canvas",
+            "height": 755,
+            "width": 500,
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-demo/30969741/5cf7e4103267ec4047bc46c6c99b3c73/full/199,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 199
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-demo/30969741/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://kyaskowich.github.io/booktok-collection-demo/30969741/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://kyaskowich.github.io/booktok-collection-demo/30969741/canvas/1",
+                            "body": {
+                                "id": "https://kyaskowich.github.io/booktok-collection-demo/30969741/5cf7e4103267ec4047bc46c6c99b3c73/full/500,755/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 755,
+                                "width": 500,
+                                "service": [
+                                    {
+                                        "id": "https://kyaskowich.github.io/booktok-collection-demo/30969741/5cf7e4103267ec4047bc46c6c99b3c73",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

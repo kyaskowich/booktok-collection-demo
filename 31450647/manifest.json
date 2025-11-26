@@ -1,0 +1,227 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://kyaskowich.github.io/booktok-collection-demo/31450647/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "The Silent Sister"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Original Date of Publication"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2014"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Description"
+                ]
+            },
+            "value": {
+                "none": [
+                    "In The Silent Sister, Riley MacPherson has spent her entire life believing that her older sister Lisa committed suicide as a teenager. Now, over twenty years later, her father has passed away and she's in New Bern, North Carolina cleaning out his house when she finds evidence to the contrary. Lisa is alive. Alive and living under a new identity. But why exactly was she on the run all those years ago, and what secrets are being kept now? As Riley works to uncover the truth, her discoveries will put into question everything she thought she knew about her family. Riley must decide what the past means for her present, and what she will do with her newfound reality, in this engrossing New York Times bestselling mystery from Diane Chamberlain."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Author"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Diane Chamberlain"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Demographic"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Adult"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Genre Category"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fiction"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Primary Genre"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Mystery Thriller"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Secondary Genre"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Contemporary Fiction"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Publisher/Imprint"
+                ]
+            },
+            "value": {
+                "none": [
+                    "St. Martin's Press; St. Martin's Press"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "ISBN"
+                ]
+            },
+            "value": {
+                "none": [
+                    "9781250130655"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "LGBTQ+ Representation"
+                ]
+            },
+            "value": {
+                "none": [
+                    "LGBTQ+ Characters"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Image URL"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1555582219i/31450647.jpg"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Goodreads Link"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://www.goodreads.com/book/show/31450647-the-silent-sister"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Tag"
+                ]
+            },
+            "value": {
+                "none": [
+                    "#ThrillerTok"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-demo/31450647/b9fdbd36c0e500670b96e303ce83c2c3/full/165,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 165
+        }
+    ],
+    "items": [
+        {
+            "id": "https://kyaskowich.github.io/booktok-collection-demo/31450647/canvas/1",
+            "type": "Canvas",
+            "height": 500,
+            "width": 275,
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-demo/31450647/b9fdbd36c0e500670b96e303ce83c2c3/full/165,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 165
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://kyaskowich.github.io/booktok-collection-demo/31450647/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://kyaskowich.github.io/booktok-collection-demo/31450647/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://kyaskowich.github.io/booktok-collection-demo/31450647/canvas/1",
+                            "body": {
+                                "id": "https://kyaskowich.github.io/booktok-collection-demo/31450647/b9fdbd36c0e500670b96e303ce83c2c3/full/275,500/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 500,
+                                "width": 275,
+                                "service": [
+                                    {
+                                        "id": "https://kyaskowich.github.io/booktok-collection-demo/31450647/b9fdbd36c0e500670b96e303ce83c2c3",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
